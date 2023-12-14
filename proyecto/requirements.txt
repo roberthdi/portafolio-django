@@ -1,2 +1,4 @@
 Pillow == 9.5.0
 django==5.0
+django-ckeditor==5.4.0
+
